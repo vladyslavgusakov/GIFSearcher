@@ -1,5 +1,13 @@
 # GIFSearcher (Swift)
 
+<p align="center">
+<img align="left" src="screenshot.png" height="30%" width="30%" alt=""/>
+<img align="center" src="screenshot2.png" height="30%" width="30%" alt=""/>
+<img align="right" src="screenshot3.png" height="30%" width="30%" alt=""/>
+
+
+</p>
+
 
 ## Requirements
 
